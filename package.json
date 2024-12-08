@@ -1,0 +1,11 @@
+{
+  "name": "library-management-system",  
+  "version": "1.0.0",
+  "description": "Frontend for the Library Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maddipati Sarwansai",
+  "license": "MIT"
+}
